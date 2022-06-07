@@ -11,10 +11,16 @@ pip install boto3  - to install boto3
 Operations done using this script
 
 Bucket Creation
+
 File Upload
+
 File Download
+
 List Buckets
+
 List objects
+
 Delete Object
+
 Delete Bucket (empty the bucket before delete)
 
