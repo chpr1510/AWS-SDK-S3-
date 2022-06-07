@@ -1,14 +1,14 @@
 # AWS-SDK-S3
 pip install boto3  - to install boto3
 
-steps--
+<strong>steps--</strong>
 1. Python setup
 2. Boto3 library installation3
 pip install boto3  - to install boto3
 3. Create IAM user and access sdk access keys
 
 
-Operations done using this script
+<strong>Operations done using this script</strong>
 
 Bucket Creation
 
